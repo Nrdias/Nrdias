@@ -16,10 +16,10 @@
           
 <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nrdias&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=30" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nrdias&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=35" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nrdias&theme=react&line_height=35&hide=css"/>
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nrdias&theme=react&line_height=30&hide=css"/>
     </a>
 </div
 
