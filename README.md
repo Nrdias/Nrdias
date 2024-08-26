@@ -1,7 +1,7 @@
 # Bem Vindo(a)!
 
-#### Meu nome é Natan, eu tenho 23 anos e sou estudante de engenharia de software. Sou apaixonado por tecnologia desde criança, e minha atual ambição é crescer na área, adquirir conhecimento e aprender com outros profissionais. 
-#### Atualmente estou estudando Java, mas já possuo um pouco de experiência com programação front-end usando Javascript.
+#### Meu nome é Natan, eu tenho 24 anos e sou estudante de engenharia de software. Sou apaixonado por tecnologia desde criança, e minha atual ambição é crescer na área, adquirir conhecimento e aprender com outros profissionais. 
+#### Atualmente tabalho com desenvolvimento mobile em Flutter focado em Clean Arch com TDD, mas possuo experiência em outras linguagens como Java, JavaScript(Foco em React Native) e Ruby (RoR)
 
 ## Sobre mim
 - Sou viciado em chá e café (e monster);
@@ -35,6 +35,6 @@
 ### Contatos
 
 <a href="https://www.linkedin.com/in/natanrdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:natan.nrdias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:natandias.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="mailto:natan.nrdias@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://twitter.com/natanrdias" > <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
