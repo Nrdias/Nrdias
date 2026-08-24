@@ -14,7 +14,7 @@
 </p>
 <div> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nrdias&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=33" />
+      <img align="center" src="https://github-stats-extended.vercel.app/api?username=Nrdias&show_icons=true&include_all_commits=true&theme=tokyonight" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nrdias&theme=react&line_height=30&hide=css"/>
