@@ -1,6 +1,6 @@
 # Hello Folks!
 
-I'm a Software Engineer with a great background in mobile development using Dart & Flutter, and I also have skills with React Native using Expo.
+I'm a Software Engineer with a strong background in mobile development using Dart & Flutter, and I also have skills with React Native using Expo.
 Currently I'm extending my skills to back-end development with Nest.js (TypeScript) and learn micro services in SpringBoot ecosystem.
 
 ## Ferramentas e tecnologias
